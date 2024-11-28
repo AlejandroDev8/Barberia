@@ -1,0 +1,15 @@
+# node_modules
+
+/node_modules
+
+# environment file
+
+.env
+.env.backup
+.env.production
+
+# build output
+
+/public/build
+/public/hot
+/public/storage
